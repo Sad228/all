@@ -1,0 +1,51 @@
+body {
+
+    background: beige;
+    margin: 0;
+}
+.shapka {
+    display: flex;
+}
+.homer {
+
+}
+.header {
+    display: flex;
+    justify-content: center;
+    background: aquamarine;
+
+    margin: 0 800px;
+    text-align: center;
+    font-family: cursive;
+    color: red;
+}
+.family {
+    width: 280px;
+    height: 380px;
+}
+img {
+    margin: 20px;
+}
+.for {
+    margin-left: 20px;
+    font-family: cursive;
+    font-size: 22px;
+
+}
+
+a {
+    display: flex;
+    justify-content: flex-start;
+    text-decoration: none;
+    color: red;
+    text-align: center;
+    margin-left: 400px;
+
+}
+li {
+    background: cornflowerblue;
+    width: 200px;
+    font-family: cursive;
+    font-size: 16px;
+    margin-right: 20px;
+}
